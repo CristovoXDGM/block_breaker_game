@@ -1,4 +1,4 @@
-# jump_game
+# Block braker game
 
 A new Flutter project.
 
